@@ -1,9 +1,9 @@
-*(This Obsidian Notebook is available at https://github.com/AdamantLife/Rotary-Tool-Drum-Sander-Organizer*
+*(This Obsidian Notebook is available at https://github.com/AdamantLife/Rotary-Tool-Drum-Sander-Organizer)*
 #### Organizer for generic Rotary Tool Drum Sander Bands and Mandrels
 
 ### Model Downloads
 [Printables](https://www.printables.com/model/651302)
-
+[[Model Description|Local Copy of Model Description]]
 ### Samples
 ![[Sample Product.jpg|200]]
 *Sample Product*

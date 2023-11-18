@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2482a7f5b9fc9898",
+        "id": "a9817f8ffeef7f99",
         "type": "tabs",
         "children": [
           {
-            "id": "fb76076ccc8f5edb",
+            "id": "223731680f1ce645",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb76076ccc8f5edb",
+  "active": "223731680f1ce645",
   "lastOpenFiles": [
-    "Sample Product.jpg",
+    "Model Description.md",
+    "simple holder.png",
+    "flex holders.png",
+    "band holder.png",
     "Rotary Tool Drum Sander Organizer.md",
+    "Sample Product.jpg",
     "Sample 1.jpg",
     "Sample 2.jpg",
     "Sample Case.jpg.crdownload"
